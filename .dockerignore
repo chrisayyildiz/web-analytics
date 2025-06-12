@@ -10,9 +10,6 @@ __pycache__/
 .venv/
 venv/
 
-# Data files (the container will generate its own)
-data/
-
 # IDE settings
 .vscode/
 .idea/
