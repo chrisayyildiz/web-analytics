@@ -5,10 +5,10 @@ This project simulates and analyses user behaviour on a website. The final outpu
 ## Business Value
 
 The goal is to understand user behaviour to drive business decisions regarding:
-- Marketing campaign optimization and timing.
+- Marketing campaign optimisation and timing.
 - UX/UI improvements based on device-specific pain points (e.g., high bounce rates).
-- User segmentation for personalization.
-- Global expansion strategy by analyzing regional behaviour.
+- User segmentation for personalisation.
+- Global expansion strategy by analysing regional behaviour.
 
 ---
 
